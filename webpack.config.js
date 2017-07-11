@@ -25,7 +25,7 @@ module:{
             query: {
                 presets:['react','es2015', 'stage-0']
             },
-            test: /\.jsx?$/,
+            test: /\.jsx?$/, 
             exclude: /(node_modules|bower_components)/
         }
     ]
